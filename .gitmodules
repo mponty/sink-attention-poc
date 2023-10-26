@@ -1,4 +1,4 @@
 [submodule "transformers"]
 	path = transformers
-	url = https://github.com/bigcode-project/transformers.git
-	branch = sc2-ablations
+	url = https://github.com/susnato/transformers.git
+	branch = flash_attn_starcoder
